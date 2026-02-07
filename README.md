@@ -12,7 +12,6 @@
 
 <br/>
 
-  <h2>🛠️ My Favorite Tools<h2>
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
@@ -43,7 +42,6 @@
 
   ---
  
-  <h2>📊 Stats and Activity</h2>
   <h3>🔥 Streak Stats</h3>
 
   <p>
