@@ -53,8 +53,6 @@
   <h3>💻 GitHub Profile Stats</h3>
 
   <img alt="pinggu0x's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pinggu0x&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&title_color=F85D7F&icon_color=F1B23C" height="192px"/>
-
-  <img src="https://raw.githubusercontent.com/pinggu0x/pinggu0x/output/snake.svg" alt="Snake animation" />
   
   <br/>
 
