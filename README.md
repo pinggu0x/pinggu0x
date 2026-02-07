@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=88CC14&width=435&height=25&lines=Access+granted%2C+welcome+to+my+GitHub" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=88CC14&width=435&height=30&lines=Access+granted%2C+welcome+to+my+GitHub" alt="Typing SVG" />
 </p>
 <div align="center">
   <a href="https://tryhackme.com/p/pinggu" target="_blank">
