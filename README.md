@@ -12,7 +12,7 @@
 
 <br/>
 
-  <p style="font-size: 22%; font-weight: bold">🛠️ My Favorite Tools</p>
+  <h2>🛠️ My Favorite Tools<h2>
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
@@ -43,7 +43,7 @@
 
   ---
  
-  <p style="font-size: 22%; font-weight: bold">📊 Stats and Activity</p>
+  <h2>📊 Stats and Activity</h2>
   <h3>🔥 Streak Stats</h3>
 
   <p>
