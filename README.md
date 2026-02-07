@@ -10,8 +10,6 @@
 
 ---
 
-<br/>
-
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
@@ -41,6 +39,7 @@
   </p>
 
   ---
+  
   <h3>🔥 Streak Stats</h3>
 
   <p>
