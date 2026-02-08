@@ -58,3 +58,7 @@
   <img alt="pinggu0x's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pinggu0x&langs_count=8&layout=compact&theme=merko&hide_border=true&bg_color=00000000&title_color=ABD200&icon_color=F1B23C" height="192px"/>
   
   <img alt="pinggu0x's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=pinggu0x&bg_color=00000000&color=ABD200&line=F85D7F&point=FFFFFF&hide_border=true" width="100%"/>
+
+  <p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  </p>
